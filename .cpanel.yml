@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/bkdemeyt/public_html/test/
-    - /bin/cp -R images $DEPLOYPATH
+    - /bin/cp * $DEPLOYPATH
