@@ -17,4 +17,4 @@ jobs:
         server: ftp.bkdevopz.tk
         username: ${{ secrets.ftp_bkdevopz_username }}
         password: ${{ secrets.ftp_bkdevopz_password }}
-        server-dir: /bkdevopz.tk/test/
+        server-dir: /public_html/test/
